@@ -1,0 +1,8 @@
+* The browser windows for local development
+
+** Tests
+http://localhost:3449/fulcro-spec-client-tests.html
+** Dev
+http://localhost:3449/
+** Cards
+http://localhost:3449/cards.html#!/house_of_cards.intro
